@@ -1,1 +1,8 @@
-# BRACU_MAT216_Linear_Algebra_And_Fourier_Analysis
+# BRACU-MAT216
+<html>
+  <body>
+  This respository contains materials of MAT216 Summer'22 <br/>
+  Theory Faculty : FHZ
+  Lab Faculty : FLA
+  </body>
+</html>
